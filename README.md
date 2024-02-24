@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 * JavaScript
 * Java
 * Cpp
-* Frameworks: Django,Flutter, Android, Arduino
-shell:
+* Frameworks: Django,Flutter, Android, Arduino 
+# shell:
 ```pip install django==4.2```
