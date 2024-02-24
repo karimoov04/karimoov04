@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 * Frameworks: Django,Flutter, Android, Arduino 
 # shell:
 ```pip install django==4.2```
+# ```pip install django==4.2```
